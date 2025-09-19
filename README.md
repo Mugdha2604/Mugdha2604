@@ -115,7 +115,7 @@
 ---
 
 ## 🧠 Quote I Live By
-> “Code never lies, comments sometimes do.” — Ron Jeffries  
+> “Little by little, one travels far.” — Ron Jeffries  
 
 ---
 
