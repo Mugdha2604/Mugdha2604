@@ -16,20 +16,20 @@
 
 <!-- Contact -->
 <p align="center">
-  <a href="mailto:your-email@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin/">💼 LinkedIn</a> •
-  <a href="https://your-resume-link.com">📄 Resume</a>
+  <a href="mailto:mugdha.dharma@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/mugdha-dharmadhikari-389126289/">💼 LinkedIn</a> •
+  <a href="https://drive.google.com/file/d/1i7plnNNsO-tg4xt4oGBafJTidqxVfvF-/view?usp=sharing">📄 Resume</a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🎓 IT Student | Aspiring Software Engineer  
+🎓 Computer Engineering Student | Aspiring Software Engineer  
 💻 MERN Stack | Backend Development | Cloud (AWS)  
 🧩 DSA Learner – Striver A2Z Sheet Progress 🚀  
 📌 Interested in AI + Web + Scalable Systems  
-🏸 Loves Badminton | Always curious to learn  
+🏸 Loves Dance and Badminton | Always curious to learn  
 
 ---
 
@@ -37,12 +37,12 @@
 
 <!-- Languages -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css" />
 </p>
 
 <!-- Backend & DB -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
 </p>
 
 <!-- Frontend -->
@@ -59,7 +59,7 @@
 
 ## 🌟 Featured Projects
 
-### 🛒 [Smart Purchase System](https://github.com/YOUR-USERNAME/smart-purchase-system)
+### 🛒 [Smart Purchase System](https://github.com/Mugdha2604/smart-purchase-system)
 > Procurement-focused RFQ + Bidding platform  
 🔹 MERN stack  
 🔹 Supplier invitation & proposal system  
@@ -67,14 +67,14 @@
 
 ---
 
-### 🩺 [Telemedicine Appointment Scheduler](https://github.com/YOUR-USERNAME/telemedicine-scheduler)
+### 🩺 [Telemedicine Appointment Scheduler](https://github.com/Mugdha2604/telemedicine-scheduler)
 > Health sync + appointment platform  
 🔹 MERN + Google Fit API  
 🔹 Prescription & payments integration  
 
 ---
 
-### 🚚 [Logistics Microservices System](https://github.com/YOUR-USERNAME/logistics-system)
+### 🚚 [Logistics Microservices System](https://github.com/Mugdha2604/logistics-system)
 > Event-driven supply chain system  
 🔹 Kafka-based microservices  
 🔹 Orders & shipment orchestration  
@@ -93,7 +93,7 @@
 ## 📈 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Mugdhaaaa?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -101,7 +101,7 @@
 ## 📊 GitHub Stats (Languages)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugdha2604&layout=compact&theme=radical&langs_count=6" />
 </p>
 
 ---
@@ -109,7 +109,7 @@
 ## 🔥 GitHub Activity Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugdha2604&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
