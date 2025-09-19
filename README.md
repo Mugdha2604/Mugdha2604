@@ -120,7 +120,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mugdha2604&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 <p align="center">Made with ❤ by Mugdha</p>
